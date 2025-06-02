@@ -1,0 +1,36 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+10
+edad,valor
+7
+0
+1
+7
+edad>50
+4
+1
+30
+'pagar completo sin descuento'
+13
+6
+2
+1
+b
+9
+valor*0.1
+1
+c
+7
+valor-b
+4
+1
+23
+'el valora pagar es' ,c
+13
+1

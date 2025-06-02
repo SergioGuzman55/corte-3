@@ -1,0 +1,44 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+'Sergio Andres Guzman Ramirez'
+4
+1
+63
+'Elaborar un programa DFD que determine la edad de una persona'
+4
+1
+30
+'Ingrese el año de nacimiento'
+5
+1
+1
+a
+6
+1
+1
+b
+6
+2023-a
+7
+0
+1
+5
+b>=18
+4
+1
+29
+'El usuario es menor de edad'
+13
+4
+1
+29
+'El usuario es Mayor de edad'
+13
+1

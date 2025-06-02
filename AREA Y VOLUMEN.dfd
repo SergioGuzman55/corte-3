@@ -1,0 +1,49 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+44
+'Sergio Andres Guzman Ramirez Tito Fernando'
+4
+1
+57
+'elaborar un programa DFD que halle el area y el volumen'
+4
+1
+17
+'Digite el radio'
+5
+1
+1
+a
+4
+1
+18
+'Digite la altura'
+5
+1
+1
+b
+6
+2
+4
+area
+14
+2*3.14*a*(a+b)
+7
+volumen
+12
+3.14*(a^2)*b
+4
+1
+35
+'El resultado del area es:'   ,area
+4
+1
+41
+'El resultado del volumen es:'   ,volumen
+1

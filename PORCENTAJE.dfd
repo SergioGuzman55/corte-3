@@ -1,0 +1,49 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+44
+'Sergio Andres Guzman Ramirez Tito Fernando'
+4
+1
+51
+'Elaborar un progrmama DFD que halle el porcentaje'
+4
+1
+36
+'Digite el primer numero de hombres'
+5
+1
+1
+a
+4
+1
+37
+'Digite el segundo numero de mujeres'
+5
+1
+1
+b
+6
+3
+5
+total
+3
+a+b
+11
+porcentaje1
+13
+(a*100)/total
+11
+porcentaje2
+13
+(b*100)/total
+4
+1
+99
+'El porcentaje de hombres es:'   ,porcentaje1,'%, El porcentaje de muejeres es:'   ,porcentaje2,'%'
+1
