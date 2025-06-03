@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+65
+'bienvenido señor ususario digite su nombre en comillas simples' 
+5
+1
+6
+nombre
+4
+1
+73
+'señor usuario digite el porcentaje y luego digite el valor de la compra'
+5
+1
+9
+por,valor
+6
+2
+5
+descu
+15
+(valor*por)/100
+5
+total
+11
+valor-descu
+4
+1
+66
+'Hola señor@: '  ,nombre,  ' usted debe pagar '   ,total, ' pesos'
+1

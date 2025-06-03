@@ -1,0 +1,44 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+'digite el valor de la compra'
+5
+1
+1
+a
+7
+0
+1
+8
+a>180000
+4
+1
+25
+'el envio no sera gratis'
+6
+1
+5
+total
+7
+a+20000
+4
+1
+61
+'valor total de la compra y envio seria de ' ,total, ' pesos'
+13
+4
+1
+20
+'el envio es gratis'
+4
+1
+25
+'volar total a pagar ' ,a
+13
+1
